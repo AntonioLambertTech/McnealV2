@@ -11,7 +11,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/McNealProtocol-Reference.git
+git clone https://github.com/AntonioLambertTech/McnealV2.git
 cd McNealProtocol-Reference
 ```
 
