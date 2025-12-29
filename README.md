@@ -236,10 +236,15 @@ func testOutOfOrderWithKeyCache() {
 - Formal security proof
 
 ### Known Limitations
-- Frequency analysis still possible with sufficient traffic
-- Timing analysis not addressed
 - No protection against traffic correlation
-- Deterministic nonces (acceptable for single-use session keys)
+
+### Does Not Provide
+- Network anonymity (use Tor)
+- Timing-channel resistance
+- Formal security proof
+
+**This is a reference implementation for research purposes.**
+For production use, conduct security audit and add constant-time operations.
 
 ## Contributing
 
