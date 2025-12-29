@@ -54,10 +54,8 @@ This reference implementation is NOT intended for production use. Known limitati
 - **Not Protected Against**: Quantum computers, timing attacks, side-channels, traffic correlation
 
 ### Known Weaknesses
-1. **Deterministic Nonces**: Acceptable for single-use session keys, but assumes no key reuse
-2. **No Formal Proof**: Protocol has not undergone formal security verification
-3. **Frequency Analysis**: With sufficient traffic, patterns may emerge despite per-message randomization
-4. **Implementation Limitations**: No constant-time guarantees, potential side-channels in Swift runtime
+1. **No Formal Proof**: Protocol has not undergone formal security verification
+2. **Implementation Limitations**: No constant-time guarantees, potential side-channels in Swift runtime
 
 ### Out of Scope
 The following are explicitly NOT addressed by this implementation:
