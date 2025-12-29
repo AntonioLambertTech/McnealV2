@@ -65,7 +65,7 @@ McNealProtocol-Reference/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/McNealProtocol-Reference.git
+git clone https://github.com/AntonioLambertTech/McnealV2.git
 cd McNealProtocol-Reference
 
 # Run tests
@@ -281,7 +281,7 @@ If you reference this work in academic publications, please cite:
   author={Antonio Lambert},
   year={2025},
   howpublished={GitHub Repository},
-  url={https://github.com/yourusername/McNealProtocol-Reference}
+  url={https://github.com/AntonioLambertTech/McnealV2}
 }
 ```
 
