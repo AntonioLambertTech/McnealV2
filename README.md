@@ -4,7 +4,7 @@ This project is covered by one or more pending patent applications.
 Use of this software is subject to the terms of the Apache 2.0 license.
 
 # McnealV2
-McNeal Protocol V2 — Per-Message Ratcheted Cryptographic Alphabet with Frequency-Domain Transformation, Binary Frame Protocol, and Out-of-Order Message Processing
+McNeal Protocol V2 - Per-Message Ratcheted Cryptographic Alphabet with Frequency-Domain Transformation, Binary Frame Protocol, and Out-of-Order Message Processing
 
 # McNeal Protocol V2 - Reference Implementation
 
